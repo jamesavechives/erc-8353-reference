@@ -1,5 +1,10 @@
 # ERC-8353 Reference Implementation
 
+> **Archived.** This implementation is now maintained in
+> [jamesavechives/erc-8353](https://github.com/jamesavechives/erc-8353),
+> alongside the ERC draft and the discussion materials. The code here is the
+> same, frozen at archive time; issues and changes belong in that repository.
+
 Reference implementation of **ERC-8353: Staked Weighted Verification Gate** —
 a minimal interface for claims that become trusted only through weighted
 third-party verification, with optional stake and revocation.
